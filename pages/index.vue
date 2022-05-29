@@ -11,7 +11,7 @@
         <li>
           <img src="telegram.jpg" class="w-[80px]" alt="">
         </li>
-        <li>0162060180</li>
+        <li class="text-2xl font-oswald">016-2060180</li>
       </div>
     </div>
   </div>
