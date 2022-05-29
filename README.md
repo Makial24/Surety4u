@@ -1,4 +1,4 @@
-# surety4u
+# Surety4u
 
 ## Build Setup
 
